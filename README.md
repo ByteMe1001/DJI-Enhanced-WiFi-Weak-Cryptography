@@ -1,4 +1,4 @@
-# DJI Enhanced WiFi Weak Cryptography
+# DJI Enhanced WiFi Weak Cryptography (CVE-2025-10250)
 DJI drones rely on two main communication protocols: **OcuSync**, used in larger drones, and **Enhanced Wi-Fi**, used in smaller models such as the DJI Spark, Mavic Air, and DJI Mini. Enhanced Wi-Fi leverages off-the-shelf Qualcomm wireless chipsets and standard 802.11 headers for communication.
 
 ## Capturing
